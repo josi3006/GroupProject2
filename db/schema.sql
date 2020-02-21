@@ -1,4 +1,4 @@
-Create database tamedb
+Create database tamedb;
 USE tamedb;
 
 CREATE TABLE tameimpala
@@ -10,3 +10,4 @@ CREATE TABLE tameimpala
 	mood_id int NOT NULL,
     PRIMARY KEY (id)
 );
+
