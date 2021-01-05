@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "ajax": "0.0.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "express": "^4.16.3",
     "express-handlebars": "^3.1.0",
